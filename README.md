@@ -4,7 +4,7 @@
 
 York University
 
-Reference code for the paper [Color temperature tuning: Allowing accurate post-capture white-balance editing.](http://cvil.eecs.yorku.ca/projects/public_html/ColorTemperatureTuning/files/ColorTemperatureTuning.pdf) Mahmoud Afifi, Abhijith Punnappurath, Abdelrahman Abdelhamed, Hakki Can Karaimer, Abdullah Abuolaim, and Michael S. Brow, Color Imaging Conference  (CIC), 2019. If you use this code or our dataset, please cite our paper:
+Reference code for the paper [Color temperature tuning: Allowing accurate post-capture white-balance editing.](http://cvil.eecs.yorku.ca/projects/public_html/ColorTemperatureTuning/files/ColorTemperatureTuning.pdf) Mahmoud Afifi, Abhijith Punnappurath, Abdelrahman Abdelhamed, Hakki Can Karaimer, Abdullah Abuolaim, and Michael S. Brow, Color Imaging Conference  (CIC), 2019. If you use this code, please cite our paper:
 ```
 @inproceedings{afifi2019color,
      title={Color Temperature Tuning: Allowing Accurate Post-Capture White-Balance Editing},
