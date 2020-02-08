@@ -4,6 +4,8 @@
 
 York University
 
+#### Best Paper Award at the 27th IS&T Color and Imaging Conference, 2019
+
 Reference code for the paper [Color temperature tuning: Allowing accurate post-capture white-balance editing.](http://cvil.eecs.yorku.ca/projects/public_html/ColorTemperatureTuning/files/ColorTemperatureTuning.pdf) Mahmoud Afifi, Abhijith Punnappurath, Abdelrahman Abdelhamed, Hakki Can Karaimer, Abdullah Abuolaim, and Michael S. Brow, Color Imaging Conference  (CIC), 2019. If you use this code, please cite our paper:
 ```
 @inproceedings{afifi2019color,
@@ -17,3 +19,6 @@ Reference code for the paper [Color temperature tuning: Allowing accurate post-c
 
 ### Project page
 For more information, please visit our [project page](http://cvil.eecs.yorku.ca/projects/public_html/ColorTemperatureTuning/)
+
+### Code
+A Matlab prototype of our method will be available very soon.
