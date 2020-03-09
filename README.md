@@ -21,4 +21,4 @@ Reference code for the paper [Color temperature tuning: Allowing accurate post-c
 For more information, please visit our [project page](http://cvil.eecs.yorku.ca/projects/public_html/ColorTemperatureTuning/)
 
 ### Code
-A Matlab prototype of our method will be available very soon.
+We provide a Matlab GUI prototype of our method. The code has been succesfully tested with Matlab 2019 | Windows 10. The code may work with versions other than the specified.
