@@ -1,5 +1,5 @@
 # Color temperature tuning: Allowing accurate post-capture white-balance editing 
-*[Mahmoud Afifi](https://sites.google.com/view/mafifi)*, *[Abhijith Punnappurath](https://abhijithpunnappurath.github.io/)*, *[Abdelrahman Abdelhamed](http://www.cse.yorku.ca/~kamel/)*, *[Hakki Can Karaimer](https://karaimer.github.io/)*, *[Abdullah Abuolaim](https://karaimer.github.io/)*, and *[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/)*
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi)*, *[Abhijith Punnappurath](https://abhijithpunnappurath.github.io/)*, *[Abdelrahman Abdelhamed](http://www.cse.yorku.ca/~kamel/)*, *[Hakki Can Karaimer](https://karaimer.github.io/)*, *[Abdullah Abuolaim](https://www.eecs.yorku.ca/~abuolaim/)*, and *[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/)*
 
 
 York University
