@@ -23,7 +23,7 @@ For more information, please visit our [project page](http://cvil.eecs.yorku.ca/
 ### Code
 We provide a Matlab GUI prototype of our method. The code has been succesfully tested with Matlab 2019 | Windows 10. The code may work with versions other than the specified.
 
-![temp](https://user-images.githubusercontent.com/37669469/76178143-cf552180-618c-11ea-977e-49e5daa2a722.png)
+![gui](https://user-images.githubusercontent.com/37669469/76178416-abdea680-618d-11ea-8474-9ea8a18b7fff.png)
 
 ### Citation
 Mahmoud Afifi, Abhijith Punnappurath, Abdelrahman Abdelhamed, 
