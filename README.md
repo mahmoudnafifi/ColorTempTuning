@@ -28,3 +28,13 @@ We provide a Matlab GUI prototype of our method. The code has been succesfully t
 ### Citation
 Mahmoud Afifi, Abhijith Punnappurath, Abdelrahman Abdelhamed, 
 Hakki Can Karaimer, Abdullah Abuolaim, and Michael S. Brown. Color Temperature Tuning: Allowing Accurate Post-Capture White-Balance Editing. In the 27th Color and Imaging Conference, pp. 1-6(6), 2019.
+
+
+### Related Research Projects
+- [When Color Constancy Goes Wrong](https://github.com/mahmoudnafifi/WB_sRGB): White balance camera-rendered sRGB images (CVPR 2019).
+- [White-Balance Augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter): Emulating white balance effects for color augmentation. It can improve results of image classification and image semantic segmentation (ICCV 2019).
+
+
+### Commercial Use
+This software is provided for research purposes only. A license must be obtained for any commercial application.
+
