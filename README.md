@@ -33,7 +33,7 @@ Hakki Can Karaimer, Abdullah Abuolaim, and Michael S. Brown. Color Temperature T
 ### Related Research Projects
 - [When Color Constancy Goes Wrong](https://github.com/mahmoudnafifi/WB_sRGB): White balance camera-rendered sRGB images (CVPR 2019).
 - [White-Balance Augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter): Emulating white balance effects for color augmentation. It can improve results of image classification and image semantic segmentation (ICCV 2019).
-
+- [Deep White-Balance Editing](https://arxiv.org/pdf/2004.01354.pdf): A multi-task deep learning model for post-capture white-balance editing (CVPR 2020).
 
 ### Commercial Use
 This software is provided for research purposes only. A license must be obtained for any commercial application.
