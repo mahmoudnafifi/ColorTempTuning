@@ -8,7 +8,7 @@
 function varargout = Wb2wb_gui(varargin)
 warning off
 clc
-addpath(fullfile('..','mappingFuncs'));
+addpath(fullfile('mappingFuncs'));
 gui_Singleton = 1;
 gui_State = struct('gui_Name',       mfilename, ...
     'gui_Singleton',  gui_Singleton, ...
